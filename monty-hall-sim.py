@@ -34,8 +34,8 @@ while n<1000:
    c += 1
  if m == l:
   #print("you won!")
-  print("Swtiched",'\t',"won")
+  print("Switched",'\t',"won")
  else:
   #print("better luck next time!")
-   print("Swtiched",'\t',"lost")
+  print("Switched",'\t',"lost")
  n += 1 
